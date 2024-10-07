@@ -1,5 +1,7 @@
 /* Carré contenant les liens*/ 
-
+body{
+    background-color: #1e1f26;
+}
 .main_back {
     position: absolute;
     border-radius: 10px;
